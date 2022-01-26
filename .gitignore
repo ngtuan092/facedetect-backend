@@ -127,3 +127,13 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+
+#data
+data
+data_full
+images
+models
+facenet_model/log.txt
+facenet_model/class.pkl
+facenet_model/embeddings.pth
